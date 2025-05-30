@@ -28,7 +28,7 @@ stack-data
 tornado                 
 traitlets               
 wcwidth 
-ploty
+plotly
 streamlit
 pandas
 matplotlib

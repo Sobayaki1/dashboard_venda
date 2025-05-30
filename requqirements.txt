@@ -29,3 +29,7 @@ tornado
 traitlets               
 wcwidth 
 ploty
+streamlit
+pandas
+matplotlib
+scikit-learn
